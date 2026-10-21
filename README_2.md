@@ -24,20 +24,7 @@
 
 ---
 
-## 🎨 Color Palette
 
-This README uses a modern **"Midnight Neon"** palette. Every badge and highlight follows it.
-
-| Swatch | Name | Hex | Used For |
-|:---:|:---|:---|:---|
-| ![](https://placehold.co/60x30/0F172A/0F172A.png) | Midnight | `#0F172A` | Dark backgrounds |
-| ![](https://placehold.co/60x30/6366F1/6366F1.png) | Indigo | `#6366F1` | Main brand / Python |
-| ![](https://placehold.co/60x30/22D3EE/22D3EE.png) | Cyan | `#22D3EE` | Info / counts |
-| ![](https://placehold.co/60x30/34D399/34D399.png) | Mint | `#34D399` | Success / beginner |
-| ![](https://placehold.co/60x30/FBBF24/FBBF24.png) | Amber | `#FBBF24` | Tips / highlights |
-| ![](https://placehold.co/60x30/FB7185/FB7185.png) | Rose | `#FB7185` | Warnings / love |
-
----
 
 ## 📚 Quick Overview
 
